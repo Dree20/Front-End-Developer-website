@@ -95,7 +95,7 @@ h3 {
   text-decoration: none;
   text-transform: capitalize;
   background: var(--primary-color);
-  bow-shadow: var(--box-shadow);
+  box-shadow: var(--box-shadow);
   color: white;
 }
 .img-fluid {
